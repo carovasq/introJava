@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7952117d-88be-47c3-86c8-c6815f9ce60c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Conditionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/users/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/users/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/PrimitiveTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/users/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/users/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/users/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +51,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ForLoop">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.basics.Arrays" />
       <module name="intoJava" />
@@ -128,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.PrimitiveTypes" />
         <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

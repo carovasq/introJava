@@ -9,9 +9,9 @@ public class User {
         this.surname = surname;
     }
 
-//    public void printFullName(){
-//        System.out.println(this.name + " " + this.surname);
-//    }
+    public void printFullName(){
+        System.out.println("1º método: " + this.name + " " + this.surname);
+    }
 
     public String fullName(){
         return name + " " + surname;
